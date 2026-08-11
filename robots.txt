@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-pepai2.yoursingles.online/sitemap.xml
